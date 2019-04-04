@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "compatibility": ">=2.1.0",
   "sdk": 2,
+  "brandColor": "#0061A0",
   "name": {
     "en": "Simon 100 iO"
   },
@@ -10,9 +11,18 @@
     "en": "Homey App for Simon 100 iO devices"
   },
   "category": [
+    "energy",
     "lights"
   ],
-  "permissions": [],
+  "tags": {
+    "en": [
+      "Simon 100 iO"
+    ]
+  },
+  "permissions": [
+    "homey:manager:speech-output",
+    "homey:wireless:zwave"
+  ],
   "images": {
     "large": "/assets/images/large.png",
     "small": "/assets/images/small.png"
@@ -20,5 +30,38 @@
   "author": {
     "name": "Eric Borland",
     "email": "eric.borland@gmail.com"
-  }
+  },
+  "contributors": {
+    "developers": [{
+      "name": "Anna Kurysheva",
+      "email": "kurysheva.anya@gmail.com"
+    }]
+  },
+  "drivers": [
+    {
+      "id": "10001358",
+      "name": {
+        "en": "Blinds"
+      },
+      "class": "blinds",
+      "capabilities": [
+        "onoff",
+        "windowcoverings_state",
+        "windowcoverings_tilt_set"
+      ],
+      "images": {
+        "large": "/drivers/10001358/assets/images/large.png",
+        "small": "/drivers/10001358/assets/images/small.png"
+      },
+      "zwave": {
+        "manufacturerId": 615,
+        "productTypeId": [
+          4
+        ],
+        "productId": [
+          0
+        ]
+      }
+    }
+  ]
 }

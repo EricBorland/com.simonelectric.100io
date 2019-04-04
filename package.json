@@ -1,0 +1,14 @@
+{
+  "name": "com.simonelectric.kuryland",
+  "version": "1.0.0",
+  "description": "Homey app for Simon 100 iO devices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "homey-meshdriver": "^1.2.32"
+  }
+}
