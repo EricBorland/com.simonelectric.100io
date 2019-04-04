@@ -1,0 +1,24 @@
+{
+  "id": "com.simonelectric.100io",
+  "version": "0.1.0",
+  "compatibility": ">=2.1.0",
+  "sdk": 2,
+  "name": {
+    "en": "Simon 100 iO"
+  },
+  "description": {
+    "en": "Homey App for Simon 100 iO devices"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Eric Borland",
+    "email": "eric.borland@gmail.com"
+  }
+}

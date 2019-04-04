@@ -1,2 +1,3 @@
-# com.simonelectric.100io
+# Simon 100 iO
+
 Homey App for Simon 100 iO devices
