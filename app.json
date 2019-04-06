@@ -32,10 +32,12 @@
     "email": "eric.borland@gmail.com"
   },
   "contributors": {
-    "developers": [{
-      "name": "Anna Kurysheva",
-      "email": "kurysheva.anya@gmail.com"
-    }]
+    "developers": [
+      {
+        "name": "Anna Kurysheva",
+        "email": "kurysheva.anya@gmail.com"
+      }
+    ]
   },
   "drivers": [
     {
@@ -60,6 +62,32 @@
         ],
         "productId": [
           0
+        ]
+      }
+    },
+    {
+      "id": "10002020",
+      "name": {
+        "en": "Dimmer switch"
+      },
+      "class": "light",
+      "capabilities": [
+        "dim",
+        "measure_power",
+        "onoff"
+      ],
+      "images": {
+        "large": "/drivers/10002020/assets/images/large.png",
+        "small": "/drivers/10002020/assets/images/small.png"
+      },
+      "zwave": {
+        "associationGroups": [ 1, 2 ],
+        "manufacturerId": 615,
+        "productTypeId": [
+          7
+        ],
+        "productId": [
+          447, 511
         ]
       }
     }
