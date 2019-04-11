@@ -41,21 +41,23 @@
   },
   "drivers": [
     {
-      "id": "10001358",
+      "id": "10002080",
       "name": {
         "en": "Blinds"
       },
       "class": "blinds",
       "capabilities": [
         "onoff",
-        "windowcoverings_state",
-        "windowcoverings_tilt_set"
+        "windowcoverings_set"
       ],
       "images": {
         "large": "/drivers/10001358/assets/images/large.png",
         "small": "/drivers/10001358/assets/images/small.png"
       },
       "zwave": {
+        "associationGroups": [
+          1
+        ],
         "manufacturerId": 615,
         "productTypeId": [
           4
