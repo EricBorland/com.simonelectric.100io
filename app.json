@@ -83,13 +83,45 @@
         "small": "/drivers/10002020/assets/images/small.png"
       },
       "zwave": {
-        "associationGroups": [ 1, 2 ],
+        "associationGroups": [
+          1
+        ],
         "manufacturerId": 615,
         "productTypeId": [
           7
         ],
         "productId": [
-          447, 511
+          447,
+          511
+        ]
+      }
+    },
+    {
+      "id": "10002041",
+      "name": {
+        "en": "Socket"
+      },
+      "class": "socket",
+      "capabilities": [
+        "measure_current",
+        "measure_power",
+        "onoff",
+        "measure_voltage"
+      ],
+      "images": {
+        "large": "/drivers/10002041/assets/images/large.png",
+        "small": "/drivers/10002041/assets/images/small.png"
+      },
+      "zwave": {
+        "associationGroups": [
+          1
+        ],
+        "manufacturerId": 615,
+        "productTypeId": [
+          9
+        ],
+        "productId": [
+          0
         ]
       }
     }
