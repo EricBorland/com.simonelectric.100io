@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="264px" viewBox="0 0 479 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Simon 100 iO Blinds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Simon-100-iO-Blinds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(45.000000, 35.000000)" stroke="#000000">
+            <rect id="Rectangle-2" stroke-width="8" x="4" y="4" width="382" height="186"></rect>
+            <g id="Group" transform="translate(50.000000, 165.000000)" fill="#000000" stroke-width="6">
+                <rect id="6" x="243" y="3" width="44" height="10"></rect>
+                <rect id="6" x="123" y="3" width="44" height="10"></rect>
+                <rect id="6" x="3" y="3" width="44" height="10"></rect>
+            </g>
+            <g id="Group-2" transform="translate(59.000000, 89.000000)" stroke-width="6">
+                <polyline id="Path-4" points="0 0 15.7294944 15.7294944 31.4589889 0"></polyline>
+                <polyline id="Path-4" transform="translate(255.729494, 7.864747) scale(1, -1) translate(-255.729494, -7.864747) " points="240 0 255.729494 15.7294944 271.458989 0"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
