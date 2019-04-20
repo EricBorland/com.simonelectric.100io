@@ -20,7 +20,6 @@
     ]
   },
   "permissions": [
-    "homey:manager:speech-output",
     "homey:wireless:zwave"
   ],
   "images": {
@@ -51,8 +50,8 @@
         "windowcoverings_set"
       ],
       "images": {
-        "large": "/drivers/10001358/assets/images/large.png",
-        "small": "/drivers/10001358/assets/images/small.png"
+        "large": "/drivers/10002080/assets/images/large.png",
+        "small": "/drivers/10002080/assets/images/small.png"
       },
       "zwave": {
         "associationGroups": [
@@ -64,7 +63,13 @@
         ],
         "productId": [
           0
-        ]
+        ],
+        "learnmode": {
+          "image": "/drivers/10002080/assets/learnmode.svg",
+          "instruction": {
+            "en": "Press and hold the key during 3 seconds until you see the led flashing quickly"
+          }
+        }
       }
     },
     {
@@ -93,7 +98,13 @@
         "productId": [
           447,
           511
-        ]
+        ],
+        "learnmode": {
+          "image": "/drivers/10002020/assets/learnmode.svg",
+          "instruction": {
+            "en": "Press and hold the key during 3 seconds until you see the led flashing quickly"
+          }
+        }
       }
     },
     {
@@ -122,7 +133,13 @@
         ],
         "productId": [
           0
-        ]
+        ],
+        "learnmode": {
+          "image": "/drivers/10002041/assets/learnmode.svg",
+          "instruction": {
+            "en": "Press and hold the button during 3 seconds until you see the led flashing quickly"
+          }
+        }
       }
     }
   ]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="753px" height="816px" viewBox="0 0 753 816" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Simon 100 iO Blinds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Simon-100-iO-Blinds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(149.000000, 87.000000)">
+            <g id="Group-4" transform="translate(137.000000, 326.000000)" fill="#000000" fill-rule="nonzero">
+                <g id="hand-pointing-up" transform="translate(110.500000, 158.500000) scale(-1, 1) translate(-110.500000, -158.500000) ">
+                    <path d="M143.093525,15.85 L143.093525,174.35 L193.971223,147.5635 L197.469065,147.088 C202.079856,147.088 206.213669,148.99 209.234532,152.16 L221,164.3645 L143.093525,230.9345 C138.959712,235.214 133.394964,237.75 127.194245,237.75 L23.8489209,237.75 C11.6064748,237.75 0,226.655 0,213.975 L0,144.869 C0,135.2005 5.5647482,126.8 13.5143885,123.63 L92.0568345,88.76 L111.294964,86.6995 L111.294964,15.85 C111.294964,7.09628672 118.413314,0 127.194245,0 C135.975175,0 143.093525,7.09628672 143.093525,15.85 Z M0,269.45 L127.194245,269.45 L127.194245,317 L0,317 L0,269.45 Z" id="Shape"></path>
+                </g>
+            </g>
+            <g id="Group-2" stroke="#000000">
+                <rect id="Rectangle" stroke-width="8" x="4" y="4" width="448" height="448"></rect>
+                <rect id="Rectangle-2" stroke-width="8" x="38" y="232" width="382" height="186"></rect>
+                <path d="M214.5,362.5 L244.5,362.5" id="Line" stroke-width="8" stroke-linecap="square"></path>
+                <g id="Group" transform="translate(44.000000, 393.000000)" fill="#000000" stroke-width="6">
+                    <rect id="6" x="327" y="3" width="39" height="10"></rect>
+                    <rect id="5" x="273" y="5" width="39" height="8"></rect>
+                    <rect id="4" x="219" y="7" width="39" height="6"></rect>
+                    <rect id="3" x="165" y="9" width="39" height="4"></rect>
+                    <rect id="2" x="111" y="11" width="39" height="2"></rect>
+                    <rect id="1" x="57" y="13" width="39" height="1"></rect>
+                    <rect id="0" x="3" y="15" width="39" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

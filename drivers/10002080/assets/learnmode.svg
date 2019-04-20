@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="753px" height="816px" viewBox="0 0 753 816" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Simon 100 iO Blinds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Simon-100-iO-Blinds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(149.000000, 79.000000)">
+            <g id="hand-pointing-up" transform="translate(247.500000, 499.500000) scale(-1, 1) translate(-247.500000, -499.500000) translate(137.000000, 341.000000)" fill="#000000" fill-rule="nonzero">
+                <path d="M143.093525,15.85 L143.093525,174.35 L193.971223,147.5635 L197.469065,147.088 C202.079856,147.088 206.213669,148.99 209.234532,152.16 L221,164.3645 L143.093525,230.9345 C138.959712,235.214 133.394964,237.75 127.194245,237.75 L23.8489209,237.75 C11.6064748,237.75 0,226.655 0,213.975 L0,144.869 C0,135.2005 5.5647482,126.8 13.5143885,123.63 L92.0568345,88.76 L111.294964,86.6995 L111.294964,15.85 C111.294964,7.09628672 118.413314,0 127.194245,0 C135.975175,0 143.093525,7.09628672 143.093525,15.85 Z M0,269.45 L127.194245,269.45 L127.194245,317 L0,317 L0,269.45 Z" id="Shape"></path>
+            </g>
+            <g id="Group-3" stroke="#000000">
+                <rect id="Rectangle" stroke-width="8" x="4" y="4" width="448" height="448"></rect>
+                <rect id="Rectangle-2" stroke-width="8" x="38" y="232" width="382" height="186"></rect>
+                <g id="Group" transform="translate(84.000000, 393.000000)" fill="#000000" stroke-width="6">
+                    <rect id="6" x="243" y="3" width="44" height="10"></rect>
+                    <rect id="6" x="123" y="3" width="44" height="10"></rect>
+                    <rect id="6" x="3" y="3" width="44" height="10"></rect>
+                </g>
+                <g id="Group-2" transform="translate(93.000000, 317.000000)" stroke-width="6">
+                    <polyline id="Path-4" points="0 0 15.7294944 15.7294944 31.4589889 0"></polyline>
+                    <polyline id="Path-4" transform="translate(255.729494, 7.864747) scale(1, -1) translate(-255.729494, -7.864747) " points="240 0 255.729494 15.7294944 271.458989 0"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

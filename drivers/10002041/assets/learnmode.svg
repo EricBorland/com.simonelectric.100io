@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="753px" height="816px" viewBox="0 0 753 816" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Simon 100 iO Socket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Simon-100-iO-Socket" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(141.000000, 64.000000)">
+            <g id="Group-3" transform="translate(16.000000, 0.000000)" stroke="#000000">
+                <rect id="Rectangle" stroke-width="8" x="4" y="4" width="448" height="448"></rect>
+                <rect id="6" stroke-width="5" fill="#000000" x="55.5" y="395.5" width="47" height="11"></rect>
+                <circle id="Oval" stroke-width="8" cx="228" cy="229" r="120"></circle>
+                <circle id="Oval" stroke-width="8" cx="228" cy="228" r="100"></circle>
+                <g id="Group-2" transform="translate(167.000000, 216.000000)" fill="#000000" stroke-width="8">
+                    <circle id="Oval" cx="13" cy="13" r="13"></circle>
+                    <circle id="Oval" cx="110" cy="13" r="13"></circle>
+                </g>
+            </g>
+            <g id="hand-pointing-up" transform="translate(110.500000, 529.500000) scale(-1, 1) translate(-110.500000, -529.500000) translate(0.000000, 371.000000)" fill="#000000" fill-rule="nonzero">
+                <path d="M143.093525,15.85 L143.093525,174.35 L193.971223,147.5635 L197.469065,147.088 C202.079856,147.088 206.213669,148.99 209.234532,152.16 L221,164.3645 L143.093525,230.9345 C138.959712,235.214 133.394964,237.75 127.194245,237.75 L23.8489209,237.75 C11.6064748,237.75 0,226.655 0,213.975 L0,144.869 C0,135.2005 5.5647482,126.8 13.5143885,123.63 L92.0568345,88.76 L111.294964,86.6995 L111.294964,15.85 C111.294964,7.09628672 118.413314,0 127.194245,0 C135.975175,0 143.093525,7.09628672 143.093525,15.85 Z M0,269.45 L127.194245,269.45 L127.194245,317 L0,317 L0,269.45 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
