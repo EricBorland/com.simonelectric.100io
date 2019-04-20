@@ -30,6 +30,13 @@
     "name": "Eric Borland",
     "email": "eric.borland@gmail.com"
   },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "eborland"
+      }
+    }
+  },
   "contributors": {
     "developers": [
       {

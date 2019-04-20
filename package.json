@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Homey app for Simon 100 iO devices",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricBorland/com.simonelectric.100io"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
