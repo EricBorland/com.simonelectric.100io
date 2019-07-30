@@ -1,6 +1,6 @@
 {
   "name": "com.simonelectric.kuryland",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "Homey app for Simon 100 iO devices",
   "main": "app.js",
   "repository": {

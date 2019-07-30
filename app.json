@@ -1,6 +1,6 @@
 {
   "id": "com.simonelectric.100io",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": ">=2.1.0",
   "sdk": 2,
   "brandColor": "#0061A0",
