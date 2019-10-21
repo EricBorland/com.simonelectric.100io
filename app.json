@@ -94,6 +94,11 @@
         "measure_power",
         "onoff"
       ],
+      "capabilitiesOptions": {
+        "measure_power": {
+          "approximated": true
+        }
+      },
       "images": {
         "large": "/drivers/10002020/assets/images/large.png",
         "small": "/drivers/10002020/assets/images/small.png"
@@ -133,6 +138,11 @@
         "onoff",
         "measure_voltage"
       ],
+      "capabilitiesOptions": {
+        "measure_power": {
+          "approximated": true
+        }
+      },
       "images": {
         "large": "/drivers/10002041/assets/images/large.png",
         "small": "/drivers/10002041/assets/images/small.png"
