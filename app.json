@@ -1,6 +1,6 @@
 {
   "id": "com.simonelectric.100io",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "compatibility": ">=2.1.0",
   "sdk": 2,
   "brandColor": "#0061A0",
@@ -94,6 +94,11 @@
         "measure_power",
         "onoff"
       ],
+      "capabilitiesOptions": {
+        "measure_power": {
+          "approximated": true
+        }
+      },
       "images": {
         "large": "/drivers/10002020/assets/images/large.png",
         "small": "/drivers/10002020/assets/images/small.png"
@@ -110,7 +115,8 @@
           447,
           511,
           157,
-          446
+          446,
+          168
         ],
         "learnmode": {
           "image": "/drivers/10002020/assets/learnmode.svg",
@@ -132,6 +138,11 @@
         "onoff",
         "measure_voltage"
       ],
+      "capabilitiesOptions": {
+        "measure_power": {
+          "approximated": true
+        }
+      },
       "images": {
         "large": "/drivers/10002041/assets/images/large.png",
         "small": "/drivers/10002041/assets/images/small.png"
