@@ -109,14 +109,17 @@
         ],
         "manufacturerId": 615,
         "productTypeId": [
+          2,
           7
         ],
         "productId": [
-          447,
-          511,
+          0,
+          152,
           157,
+          168,
           446,
-          168
+          447,
+          511
         ],
         "learnmode": {
           "image": "/drivers/10002020/assets/learnmode.svg",
