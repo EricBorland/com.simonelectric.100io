@@ -1,5 +1,8 @@
 {
   "0.1.4": {
     "en": "Added master switch"
+  },
+  "0.1.6": {
+    "en": "Added socket devices with ProductID 93"
   }
 }
